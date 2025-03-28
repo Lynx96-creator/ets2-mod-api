@@ -1,0 +1,6 @@
+2025-03-27 19:44:56,869 - ERROR - Failed to delete C:\Users\LYNX/Documents/Euro Truck Simulator 2/mod\MSRTC_Pack.scs: [WinError 5] Access is denied: 'C:\\Users\\LYNX/Documents/Euro Truck Simulator 2/mod\\MSRTC_Pack.scs'
+2025-03-27 19:45:34,727 - ERROR - Failed to delete C:\Users\LYNX/Documents/Euro Truck Simulator 2/mod\MSRTC_Pack.scs: [WinError 5] Access is denied: 'C:\\Users\\LYNX/Documents/Euro Truck Simulator 2/mod\\MSRTC_Pack.scs'
+2025-03-27 19:45:39,250 - ERROR - Failed to delete C:\Users\LYNX/Documents/Euro Truck Simulator 2/mod\MSRTC_Pack.scs: [WinError 5] Access is denied: 'C:\\Users\\LYNX/Documents/Euro Truck Simulator 2/mod\\MSRTC_Pack.scs'
+2025-03-27 21:03:33,109 - ERROR - Download failed: name 'user_email' is not defined
+2025-03-27 21:05:24,570 - ERROR - Download failed: name 'user_email' is not defined
+2025-03-27 21:08:31,864 - ERROR - Download failed: [WinError 183] Cannot create a file when that file already exists: 'C:\\Users\\LYNX/Documents/Euro Truck Simulator 2/mod\\hidden\\MG_DreamZ_StarZ_Modpack_LM.scs.tmp' -> 'C:\\Users\\LYNX/Documents/Euro Truck Simulator 2/mod\\hidden\\MG_DreamZ_StarZ_Modpack_LM.scs'
